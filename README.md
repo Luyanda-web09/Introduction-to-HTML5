@@ -272,3 +272,180 @@ Adhering to semantic standards promotes accessibility for users with disabilitie
 Resources for Further Learning
 
 A quick refresher on semantic tags can be found on the W3Schools site, specifically in the HTML Semantic Elements section.
+
+The introduction of newer HTML5 semantic tags and their importance in web design.
+
+Web Design Fundamentals
+
+Emphasizes the significance of having a clear design plan before coding.
+Introduces a sample layout with header, footer, and other sections.
+Key HTML5 Semantic Tags
+
+Header Tag: Used for grouping introductory content and navigation aids; it is a block tag that enhances accessibility for users with assistive devices.
+Nav Tag: Contains links to other parts of the same site, typically embedded within the header for easier navigation.
+Additional Semantic Tags
+
+Footer Tag: Contains typical bottom-of-page information like copyright and social media links; its position is flexible.
+Figure Tag: Offers more semantic meaning than the image tag, allowing for captions and additional context for images, enhancing accessibility.
+The content encourages using appropriate semantic tags to improve webpage accessibility and user experience.
+
+The importance of organizing code effectively when writing HTML.
+
+Folder Structure
+
+It is recommended to have a main folder for HTML files, with subfolders for images.
+An example structure includes a main folder named "WD4E" containing an HTML file (index.html) and an "images" folder.
+Code Case Sensitivity
+
+Proper case usage in file paths is crucial, as some systems are case-sensitive.
+An example of incorrect usage is shown with "Images" instead of "images," which would lead to errors.
+Understanding Folder Structures
+
+Mastering folder structures can be challenging initially but is essential for coding.
+A clear understanding of folder organization will benefit learners, even if they do not continue coding in the future.
+
+Creating a basic HTML page using Visual Studio Code, emphasizing the importance of structure and validation.
+
+Creating the HTML Page
+
+Start by creating a file named "index.html," which is the default for web browsers.
+Utilize essential HTML elements: header, main, and footer, ensuring they contain meaningful content.
+Using Visual Studio Code
+
+The editor provides a built-in shell for HTML5, including metadata and displayable content.
+Use tags like <h1> for titles and <p> for paragraphs to enhance content visibility.
+Validation and Accessibility
+
+Validate your HTML code using tools like W3 validator and WAVE accessibility checker.
+Regularly save your work and check for errors to ensure your code is accessible and error-free.
+
+Creating a more complex web page using HTML5, specifically through the use of various tags and elements.
+
+Creating the Web Page
+
+Start by creating a file named "index.html" that includes header, main, and footer elements.
+Ensure that these elements are not empty and validate the page as you develop to catch mistakes early.
+Basic Structure and Validation
+
+Begin with a shell that includes the doctype for HTML5 and basic metadata like the title.
+Use validation tools to check your code for errors and accessibility issues, making necessary adjustments.
+Adding Content
+
+Focus on adding displayable content such as paragraphs and lists, and consider using an unordered list for items like favorite movies.
+Remember to include a footer for copyright information and continue validating your code to ensure it meets standards.
+
+The importance of incorporating visual media into web design, particularly through the use of images and icons.
+
+Understanding Visual Media
+
+The internet has evolved from being text-only to incorporating various visual elements like images and icons.
+Adding images and icons to a webpage is essential for enhancing user experience.
+Accessibility of Visual Media
+
+It's crucial to ensure that images are accessible by using alt text, transcripts, and aria-labels.
+Guidelines for alt text include describing the image's content and indicating link destinations for images within <a> elements.
+Cross-Platform Image Accessibility
+
+Understanding how to add alternative text on different platforms (e.g., social media) is important.
+Resources are provided for editing alternative text on platforms like Facebook, Instagram, and Pinterest, with a suggestion to search for specific instructions if needed.
+
+The proper use of images in web design, emphasizing both technical and accessibility aspects.
+
+Understanding Image Formats
+
+Various image file types are supported, including JPEG, GIF, PNG, SVG, and BMP, and it's crucial to include the correct file extensions.
+Each image requires an HTTP request, which can slow down page loading, especially for users with slow internet connections.
+Image Sizing and Attributes
+
+The size of images can be adjusted using width and height attributes in HTML, which helps maintain optimal display without skewing.
+Using percentages for width allows images to be responsive to different screen sizes, enhancing user experience.
+Importance of Alternative Text
+
+Alternative text is essential for accessibility, providing descriptions for screen readers and displaying when images fail to load.
+Proper naming of image files and paths is important for functionality and search engine optimization.
+
+The legal aspects of using images in web design.
+
+Where to Get Images?
+
+Copyright protection automatically applies to products, including images, preventing unauthorized use.
+It's essential to use images legally on your site, which can be done through various websites that offer content free of copyright restrictions.
+Resources for Usable Images
+
+The University of Michigan provides a resource called "Finding Usable Materials," which links to sites for photographs, images, and icons that can be reused.
+Another resource, the "DEIJ Open Image Bank," offers links to high-quality image banks that emphasize diversity, equity, and inclusion.
+
+The importance of using alternative text (alt text) for images in web design to enhance accessibility and improve user experience.
+
+Understanding Alternative Text
+
+Alt text provides a textual alternative for non-text content, helping screen readers convey image information to visually impaired users.
+It also serves as a placeholder when images fail to load, displaying meaningful descriptions instead of broken icons.
+Creating Effective Alt Text
+
+Good alt text should be accurate and succinct, avoiding redundancy like "picture of" or "graphic of."
+For complex images, such as infographics, consider linking to a separate page with detailed descriptions instead of overloading alt text.
+Image Sourcing and Diversity
+
+Use personal images or those from Creative Commons sources, ensuring proper usage rights.
+Incorporate diverse images to represent various cultures and body types, making the content more relatable and engaging for a wider audience.
+
+Creating effective alternative text (alt text) for images is essential for accessibility. Here are some key points to consider:
+
+Understanding Image Purpose
+
+Determine if the image is decorative or informative; use a null text alternative for decorative images.
+For informative images, provide a concise description that captures the essential information.
+Crafting Alt Text
+
+Prioritize the most important information at the beginning of the alt text.
+Avoid unnecessary words like "image" or "picture" in the description.
+Handling Complex Images
+
+For complex images (e.g., graphs or charts), use a two-part text alternative: a short description and a long description that conveys essential information.
+Consider using resources like the W3 alt decision tree for guidance on creating alt text.
+
+The concept of hyperlinks and their implementation in web pages.
+
+Understanding Hyperlinks
+
+Hyperlinks, or links, are essential for connecting documents on the web, allowing users to navigate from one page to another.
+Links are created using the anchor tag <a>, which requires two components: a hyper reference (URL) and content (clickable text or image).
+Types of Links
+
+Absolute Links: These contain a full URL, including the protocol (http/https), host, and document name, used for linking to external pages.
+Relative Links: These reference files within the same site, using just the file name or a path, making it easier to manage when moving files.
+Link Usability and Accessibility
+
+It's important to use descriptive link names instead of generic terms like "click here" for better usability.
+When using images as links, ensure they have appropriate alt text for accessibility, allowing all users to understand the content.
+
+HTML hyperlinks, which are essential for web navigation.
+
+Opening Tag
+
+The opening tag includes a hyper reference ("href") that specifies the link's destination, which can be external, internal, or a jump link.
+The target attribute can control how the link opens, but it may cause accessibility issues if not used carefully.
+Tag Contents
+
+Hyperlinks can contain various content types, such as text, graphics, or videos, and should clearly indicate their purpose for accessibility.
+Descriptive alt text should be used for images, and the "aria-label" attribute is recommended for icons or graphics.
+Closing Tag
+
+The closing tag is standard, but omitting it can result in unintended formatting, turning everything into a link until the next tag.
+
+Essential HTML5 tags that are useful for web development.
+
+Block Tags
+
+Common block tags include <p> for paragraphs and <div> for grouping content, but they are generic.
+Semantic tags like <header>, <nav>, <footer>, and <figure> provide more meaningful structure to web pages.
+Additional Block Tags
+
+Tags such as <article>, <aside>, <section>, and <main> help organize content into specific sections.
+The <hr> tag creates a horizontal line, while <address> is used for contact information, enhancing accessibility.
+Inline Tags and Special Tags
+
+Inline tags like <span>, <cite>, <abbr>, <time>, <code>, <sub>, and <sup> allow for styling text without breaking the flow.
+Special tags like <button>, <meter>, <progress>, and <iframe> require JavaScript for full functionality and are used for interactive elements.
+This overview emphasizes the importance of using specific tags for better semantic meaning and accessibility in web design.
