@@ -449,3 +449,84 @@ Inline Tags and Special Tags
 Inline tags like <span>, <cite>, <abbr>, <time>, <code>, <sub>, and <sup> allow for styling text without breaking the flow.
 Special tags like <button>, <meter>, <progress>, and <iframe> require JavaScript for full functionality and are used for interactive elements.
 This overview emphasizes the importance of using specific tags for better semantic meaning and accessibility in web design.
+
+The importance of web accessibility and the role of web accessibility professionals.
+
+Web Accessibility Professionals
+
+They guide policy and purchasing decisions for accessible software.
+They evaluate web interfaces for accessibility and assist individuals with disabilities in accessing online resources.
+Disabilities and the Web
+
+Approximately 1 in 5 people in the U.S. have a disability, with many facing challenges using the internet.
+Key issues include visual, hearing, motor, and cognitive disabilities, each requiring specific considerations in web design.
+Four Principles of Accessible Interface Design
+
+The four principles are: perceivable, operable, understandable, and robust.
+Adhering to these principles and web standards is essential for creating accessible web pages for all users.
+
+Assessing HTML5 support in various web browsers and ensuring accessibility for users relying on assistive technology.
+
+Browser Testing
+
+The HTML5 test at https://html5test.com/ evaluates how well different browsers support HTML5 features.
+A comparison of browser versions (Chrome, Firefox, Edge, Safari) highlights varying levels of HTML5 support.
+Accessibility Considerations
+
+It's essential to determine if HTML5 features are usable by individuals with disabilities without special workarounds.
+The Html5accessibility site tests major browsers for keyboard accessibility and support for accessibility-related features.
+
+The importance of validating code to ensure web accessibility and functionality.
+
+Importance of Code Validation
+
+Browsers often correct minor coding errors, which can lead to hidden issues in complex pages.
+Bad code can severely impact accessibility tools, making it crucial to validate code.
+Methods of Validation
+
+Validate by URI: Requires the site to be hosted online; useful for public-facing websites.
+Validate by File Name: Allows file uploads for validation, but can lead to errors if the wrong file is uploaded.
+Validate by Direct Input: Users can copy and paste HTML code for line-by-line checking, which is often the most effective method.
+Accessibility Validation
+
+Use tools like wave.webaim.org to check accessibility.
+It's essential to ensure that web pages are usable for everyone, including those using screen readers or other assistive technologies.
+Validated sites are more robust and less likely to break, enhancing overall user experience.
+
+Validating code is crucial for several reasons:
+
+Error Detection: It helps identify and correct coding errors that may not be immediately visible, especially in complex web pages.
+
+Accessibility: Proper validation ensures that web pages are accessible to all users, including those using assistive technologies like screen readers.
+
+Robustness: Validated code is less likely to break, leading to a more stable and reliable website.
+
+Standards Compliance: It ensures adherence to web standards, which can improve compatibility across different browsers and devices.
+
+User Experience: A well-validated site enhances the overall user experience by providing a smoother and more functional interaction.
+By validating your code, you contribute to a better web environment for everyone.
+
+The essential steps for hosting a website, which involves obtaining a domain name and selecting a hosting service.
+
+Domain Names
+
+A domain name is the URL that users will type to access your site, typically purchased for multiple years.
+While .com is the most common domain extension, alternatives like .net or .biz are also acceptable.
+Hosting Services
+
+Hosting services store your website files and make them accessible on the Internet, with options ranging from free to paid services.
+Free services offer limited control and features, often including advertisements, while paid services provide better tools, technical support, and more control over your site.
+Choosing the Right Service
+
+Beginners are often advised to start with free hosting services before upgrading to paid options as their needs grow.
+It's beneficial to explore free services offered by schools or workplaces, which may provide robust tools without the cost.
+
+A domain name is the address that users type into a web browser to access a website. It typically consists of two main parts: the name itself (e.g., "example") and the extension (e.g., ".com"). Together, they form a complete URL, such as "www.example.com".
+
+Importance of a Domain Name:
+
+Identity: It serves as your online identity, making it easier for users to find and remember your website.
+Credibility: A professional domain name enhances your credibility and can make your site appear more trustworthy.
+Branding: It helps in establishing your brand and can reflect your business or personal identity.
+Accessibility: A domain name allows users to access your site easily, as opposed to using an IP address, which is harder to remember.
+In summary, a domain name is crucial for creating a recognizable and accessible online presence.
