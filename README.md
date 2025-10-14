@@ -530,3 +530,68 @@ Credibility: A professional domain name enhances your credibility and can make y
 Branding: It helps in establishing your brand and can reflect your business or personal identity.
 Accessibility: A domain name allows users to access your site easily, as opposed to using an IP address, which is harder to remember.
 In summary, a domain name is crucial for creating a recognizable and accessible online presence.
+
+Introducing the Gamut Gallery, a tool designed for sharing digital artifacts and facilitating peer discussions.
+
+What is the Gamut Gallery?
+
+It serves as a digital platform for submitting and sharing artifacts like images or PDFs.
+Users can receive feedback and ask questions about their submissions.
+How does this course use Gamut Gallery?
+
+Participation is encouraged but not mandatory, fostering a sense of community.
+Learners are advised to review peers' work and provide thoughtful comments.
+How can I get the most out of the Gamut Gallery?
+
+Engage by responding thoroughly to prompts and explaining the rationale behind submissions.
+Review and provide feedback on peers' submissions to enhance learning.
+How is my privacy ensured when I use the Gallery?
+
+Minimal personal information is collected, used solely for academic purposes.
+Users can choose to remain anonymous when sharing work.
+How do I report a digital accessibility barrier?
+
+An accessibility feedback form is available for reporting issues to ensure inclusivity.
+
+An introduction to HTML5, focusing on the foundational skills needed to create and understand web pages.
+
+Course Structure
+
+Learning About the Web: Understand the basics of how the web functions and the role of HTML in web development.
+Structure of a Web Page: Learn about the essential components and structure of HTML documents.
+Key Skills Developed
+
+Common HTML5 Tags: Recognize and use various HTML5 tags effectively.
+Using an Editor: Gain familiarity with web editors and how to utilize them for coding.
+Creating Links and Images: Learn to compose HTML5 code that incorporates images and hyperlinks.
+This course is designed for beginners with no prior programming experience and culminates in a final project to create a simple web page.
+
+The course "Introduction to HTML5" aims to provide beginners with a foundational understanding of web design and development.
+
+Course Overview
+
+The course is designed for novices with no prior programming skills or IT experience.
+It covers the theory of web interactions, practical skills for creating web pages, and the process of sharing code online.
+Key Learning Objectives
+
+Recognize and use common HTML5 tags.
+Understand how to use an editor for composing HTML5 code that includes images and links.
+Course Structure
+
+The course consists of three weeks, focusing on learning about the web, the structure of a web page, and hosting/accessibility.
+It culminates in a final project where students create a simple web page with links and images.
+
+The foundational skills learned in HTML5 and the next steps for further development in web design.
+
+Key Skills Acquired
+
+Mastery of HTML5 tags, syntax, and semantics, providing a solid base for further learning.
+Ability to view and edit code, create HTML files from scratch, and understand file management.
+Accessibility and Validation
+
+Introduction to evaluating accessibility through semantic tags and using tools like validator.org and WebAIM.
+Understanding the importance of well-structured code for accessibility.
+Next Steps in Learning
+
+Encouragement to practice coding regularly and explore different editors and browsers.
+Recommendation to learn Cascading Style Sheets (CSS) for enhancing web page aesthetics, with an invitation to join a CSS3 course.
